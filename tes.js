@@ -22,3 +22,5 @@ const readline = require('readline').createInterface({
     console.log(`Hey there ${ttt.show()}!`);
     readline.close();
 });
+
+// link ts readline = https://stackoverflow.com/questions/33858763/console-input-in-typescript/49055758
